@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: a16d88bd19539624c87e65e5695d09ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5857173490778120786
+    second: mp_cs_tilemap_20_0
+  - first:
+      213: 953500483473583483
+    second: mp_cs_tilemap_20_1
+  - first:
+      213: 3673818611948869181
+    second: mp_cs_tilemap_20_2
+  - first:
+      213: 6085984893743971703
+    second: mp_cs_tilemap_20_3
+  - first:
+      213: -6371388646378497974
+    second: mp_cs_tilemap_20_4
+  - first:
+      213: -3999885677928761338
+    second: mp_cs_tilemap_20_5
+  - first:
+      213: 8471832266502441551
+    second: mp_cs_tilemap_20_6
+  - first:
+      213: -3638455756140527875
+    second: mp_cs_tilemap_20_7
+  - first:
+      213: -2893923102922475510
+    second: mp_cs_tilemap_20_8
+  - first:
+      213: 442692802761720461
+    second: mp_cs_tilemap_20_9
+  - first:
+      213: -342972505099585845
+    second: mp_cs_tilemap_20_10
+  - first:
+      213: -8953296354684893267
+    second: mp_cs_tilemap_20_11
+  - first:
+      213: -4971066494294979463
+    second: mp_cs_tilemap_20_12
+  - first:
+      213: -3667884679868892590
+    second: mp_cs_tilemap_20_13
+  - first:
+      213: -5659265224955734970
+    second: mp_cs_tilemap_20_14
+  - first:
+      213: -6314249993476291385
+    second: mp_cs_tilemap_20_15
+  - first:
+      213: 6280010620697982187
+    second: mp_cs_tilemap_20_16
+  - first:
+      213: -3217054847574518544
+    second: mp_cs_tilemap_20_17
+  - first:
+      213: -213760071746606308
+    second: mp_cs_tilemap_20_18
+  - first:
+      213: 1668521200170109920
+    second: mp_cs_tilemap_20_19
+  - first:
+      213: 7923886996693270753
+    second: mp_cs_tilemap_20_20
+  - first:
+      213: -6662797541822453014
+    second: mp_cs_tilemap_20_21
+  - first:
+      213: -6414805285047106242
+    second: mp_cs_tilemap_20_22
+  - first:
+      213: -567579105916315391
+    second: mp_cs_tilemap_20_23
+  - first:
+      213: 2217601366081233041
+    second: mp_cs_tilemap_20_24
+  - first:
+      213: -4414356990447265694
+    second: mp_cs_tilemap_20_25
+  - first:
+      213: 3507068977637086436
+    second: mp_cs_tilemap_20_26
+  - first:
+      213: 6218016623529174113
+    second: mp_cs_tilemap_20_27
+  - first:
+      213: -6316182073871298417
+    second: mp_cs_tilemap_20_28
+  - first:
+      213: -7907809302872244083
+    second: mp_cs_tilemap_20_29
+  - first:
+      213: -3676487678616539456
+    second: mp_cs_tilemap_20_30
+  - first:
+      213: -739738061525727987
+    second: mp_cs_tilemap_20_31
+  - first:
+      213: 5742574471587818717
+    second: mp_cs_tilemap_20_32
+  - first:
+      213: 6542767156941301738
+    second: mp_cs_tilemap_20_33
+  - first:
+      213: -6902592118142650255
+    second: mp_cs_tilemap_20_34
+  - first:
+      213: 3410100595733407419
+    second: mp_cs_tilemap_20_35
+  - first:
+      213: 8181679491425885310
+    second: mp_cs_tilemap_20_36
+  - first:
+      213: -3132166487507804693
+    second: mp_cs_tilemap_20_37
+  - first:
+      213: -7111579907301210055
+    second: mp_cs_tilemap_20_38
+  - first:
+      213: -1644077003929713503
+    second: mp_cs_tilemap_20_39
+  - first:
+      213: 5462119861340095068
+    second: mp_cs_tilemap_20_40
+  - first:
+      213: 6924825932135348058
+    second: mp_cs_tilemap_20_41
+  - first:
+      213: 8585038755089397081
+    second: mp_cs_tilemap_20_42
+  - first:
+      213: -6236480839362777121
+    second: mp_cs_tilemap_20_43
+  - first:
+      213: 8643976302877873057
+    second: mp_cs_tilemap_20_44
+  - first:
+      213: 5576230462599013358
+    second: mp_cs_tilemap_20_45
+  - first:
+      213: 5539999893603175281
+    second: mp_cs_tilemap_20_46
+  - first:
+      213: -630514316468655111
+    second: mp_cs_tilemap_20_47
+  - first:
+      213: 2218219242600474539
+    second: mp_cs_tilemap_20_48
+  - first:
+      213: -7366993723346835336
+    second: mp_cs_tilemap_20_49
+  - first:
+      213: -2727136424846300608
+    second: mp_cs_tilemap_20_50
+  - first:
+      213: 7556559683519933396
+    second: mp_cs_tilemap_20_51
+  - first:
+      213: -602423812642620295
+    second: mp_cs_tilemap_20_52
+  - first:
+      213: -6758453090680337111
+    second: mp_cs_tilemap_20_53
+  - first:
+      213: 6119822133093923580
+    second: mp_cs_tilemap_20_54
+  - first:
+      213: -4328936736335743169
+    second: mp_cs_tilemap_20_55
+  - first:
+      213: 8929039002726575844
+    second: mp_cs_tilemap_20_56
+  - first:
+      213: -2519861253555919719
+    second: mp_cs_tilemap_20_57
+  - first:
+      213: -7102804104269639993
+    second: mp_cs_tilemap_20_58
+  - first:
+      213: -5824013935933600045
+    second: mp_cs_tilemap_20_59
+  - first:
+      213: 6606216513534309481
+    second: mp_cs_tilemap_20_60
+  - first:
+      213: 5085606604756263485
+    second: mp_cs_tilemap_20_61
+  - first:
+      213: 5660393672037550982
+    second: mp_cs_tilemap_20_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadd5562eb327bea0800000000000000
+      internalID: -5857173490778120786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 7
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2b9a43a38b3d00800000000000000
+      internalID: 953500483473583483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d365e6610960cf230800000000000000
+      internalID: 3673818611948869181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db0041403c57450800000000000000
+      internalID: 6085984893743971703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 39
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4817ae78c74497a0800000000000000
+      internalID: -6371388646378497974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 39
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60832e01b2d8d78c0800000000000000
+      internalID: -3999885677928761338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 39
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a02998f8ef19570800000000000000
+      internalID: 8471832266502441551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb44464cb918dc0800000000000000
+      internalID: -3638455756140527875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 7
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0872034548b6d7d0800000000000000
+      internalID: -2893923102922475510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 7
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d820c3532c2c42600800000000000000
+      internalID: 442692802761720461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc630d1e2548d3bf0800000000000000
+      internalID: -342972505099585845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7053ae6608fb380800000000000000
+      internalID: -8953296354684893267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 7
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c83bc7c59330bb0800000000000000
+      internalID: -4971066494294979463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 7
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3153215e091dc0800000000000000
+      internalID: -3667884679868892590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 20
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644dac013404671b0800000000000000
+      internalID: -5659265224955734970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 53
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c445d3d5174f58a0800000000000000
+      internalID: -6314249993476291385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 7
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43268f264172750800000000000000
+      internalID: 6280010620697982187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 7
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f45f5b29a9ba53d0800000000000000
+      internalID: -3217054847574518544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba168e852980df0800000000000000
+      internalID: -213760071746606308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_cs_tilemap_20_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb095cf037c72710800000000000000
+      internalID: 1668521200170109920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
